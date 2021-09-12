@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
 
 ## Purpose
 The purpose of this assignment is to refactor and leverage third party APIs including bootstrap, moment, and jquery. This assignment required using jquery to simplify the javascript code, bootstrap to help with styling in different screen sizes, and moment to help with calculating time. The application is a simple work day scheduler which stores data locally and makes it easy to retrieve even after page refresh. The colors will change depending on how the day progresses from grey to red to green.
