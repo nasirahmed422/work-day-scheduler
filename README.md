@@ -15,8 +15,8 @@ The purpose of this assignment is to refactor and leverage third party APIs incl
 https://nasirahmed422.github.io/work-day-scheduler/
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/65471245/133004604-dea2b729-d735-4957-a792-ffee00fbcb32.png)
 
-![image](https://user-images.githubusercontent.com/65471245/133004520-3c990cf6-6d48-41ea-95f6-bd9cdef76d25.png)
 
 ## Contribution
 Made with ❤️ by Nasir Ahmed
